@@ -1,0 +1,5 @@
+package go-say-welcome
+
+func Welcome() string {
+	return "Welcome"
+}
